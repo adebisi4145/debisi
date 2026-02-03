@@ -767,7 +767,7 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 25%);
   max-width: 900px;
   margin: 0 auto;
-  text-wrap: balance;
+  /* text-wrap: balance; */
 }
 
 /*--------------------------------------------------------------
